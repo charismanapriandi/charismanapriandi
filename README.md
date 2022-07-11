@@ -19,22 +19,4 @@ Here are some ideas to get you started:
 
 |  |  |
 | ------------- | ------------- |
-| <a target="_blank" href="https://nextjs.org/"> ![nextjs](https://user-images.githubusercontent.com/68155110/178220412-5559ada7-23e8-4cb4-8c2a-7fd9defd8170.png) </a>  | <a target="_blank" href="https://nextjs.org/"> ![nextjs](https://user-images.githubusercontent.com/68155110/178220412-5559ada7-23e8-4cb4-8c2a-7fd9defd8170.png) </a>  |
-
-<div>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-  </a> 
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a>
-</div>
+| <a target="_blank" href="https://www.javascript.com/"> ![js](https://user-images.githubusercontent.com/68155110/178224045-0590d483-e272-4c91-92ba-4c96f4df80d1.png) </a>  | <a target="_blank" href="https://nextjs.org/"> ![nextjs](https://user-images.githubusercontent.com/68155110/178220412-5559ada7-23e8-4cb4-8c2a-7fd9defd8170.png) </a>  |
