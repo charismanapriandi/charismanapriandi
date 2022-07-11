@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 <hr />
 <h3 align="left">Something i love:</h3>
 
-
-
 |  |  |
 | ------------- | ------------- |
 | <a target="_blank" href="https://nextjs.org/"> ![nextjs](https://user-images.githubusercontent.com/68155110/178220412-5559ada7-23e8-4cb4-8c2a-7fd9defd8170.png) </a>  | <a target="_blank" href="https://nextjs.org/"> ![nextjs](https://user-images.githubusercontent.com/68155110/178220412-5559ada7-23e8-4cb4-8c2a-7fd9defd8170.png) </a>  |
