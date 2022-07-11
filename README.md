@@ -16,6 +16,13 @@ Here are some ideas to get you started:
 </p>
 <hr />
 <h3 align="left">Something i love:</h3>
+
+<a target="_blank" href="https://nextjs.org/">
+
+  ![nextjs](https://user-images.githubusercontent.com/68155110/178220412-5559ada7-23e8-4cb4-8c2a-7fd9defd8170.png)
+
+</a>
+
 <div>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
