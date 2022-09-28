@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on WeCognition
 - 💬 Ask me about Web Development
 - 📫 How to reach me: charismanapriandi@gmail.com
+- 🌍 Visit my personal website: <a href="https://charismanapriandi.com" target="_blank" rel="noreferrer">charismanapriandi.com</a>
 
 <hr />
 <h3 align="left">Connect with me:</h3>
